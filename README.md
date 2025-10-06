@@ -1,6 +1,6 @@
 ﻿# Mistral OCR Scanner
 
-**One-line:** Local-first OCR + Document QnA web app powered by Mistral (OCR + chat), FastAPI backend, and a simple modern frontend.
+Local-first OCR + Document QnA web app powered by Mistral (OCR + chat), FastAPI backend, and a simple modern frontend.
 
 ---
 
@@ -250,4 +250,5 @@ If you prefer PowerShell native, use `Invoke-RestMethod` with multipart form dat
 ## Contribution
 
 - Contributions: open issues / PRs. Keep changes focused, add tests for any backend change, and document architecture changes in README.
+
 
